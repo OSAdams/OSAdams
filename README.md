@@ -1,5 +1,5 @@
 # Owen Adams  
-[![Linkedin Badge](https://img.shields.io/badge/-owen-adams-1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/owen-adams1/)](https://www.linkedin.com/in/owen-adams1/)[![Gmail Badge](https://img.shields.io/badge/-owenadams.main@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:owenadams.main@gmail.com)](mailto:owenadams.main@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-owenadams1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/owen-adams1/)](https://www.linkedin.com/in/owen-adams1/)[![Gmail Badge](https://img.shields.io/badge/-owenadams.main@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:owenadams.main@gmail.com)](mailto:owenadams.main@gmail.com)
 
 ## Hi 👋, 
 I'm Owen Adams, I'm a Full Stack Web Developer 👨‍💻 who is passionate about web site layout and user interaction. I also love music and astronomy!
