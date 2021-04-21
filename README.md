@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**OSAdams/OSAdams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Owen Adams  
 [![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/owen-adams1/)](https://www.linkedin.com/in/owen-adams1/)[![Gmail Badge](https://img.shields.io/badge/-owenadams.main@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:owenadams.main@gmail.com)](mailto:owenadams.main@gmail.com)
 
