@@ -8,5 +8,4 @@ I'm Owen Adams, I'm a Full Stack Web Developer 👨‍💻 who is passionate abo
 - 🌱 I’m currently learning Front End and Back End Communication
 - 👯 I’m looking to collaborate on an app that helps users decide on a movie to watch
 - 💬 Ask me about: tech and space
-- 😄 Pronouns: he/him
--  ⚡ Languages: HTML, CSS, JavaScript (ES5/ES6), postgreSQL
+- ⚡ Languages: HTML, CSS, JavaScript (ES5/ES6), postgreSQL
