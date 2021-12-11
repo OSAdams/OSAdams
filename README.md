@@ -20,7 +20,7 @@ I enjoy learning new things and collaborating with people on a variety of differ
 - **BackEnd**: Node.js, Express
 - **Web technologies**: HTML5, CSS3, ES5/ES6
 - **Databases**: MongoDB (Mongoose), MySQL, PostgreSQL
-- **Misc**: Git, Eslint
+- **Misc**: Git, Eslint, Cmder
 - **Languages**: JavaScript
 
 ## 🛠️ Projects 🛠️
