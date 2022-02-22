@@ -1,6 +1,6 @@
 # Hello World! I'm [Owen Adams](https://drive.google.com/file/d/1T1r4DEmPmhEMRBFiG_vS4yDdtPvOLp-G/view)! 👋
 
->  💻 Full-stack Software Engineer | React.js & JS
+> Full-stack Software Engineer | JS with React.js Library
 
 [![Linkedin: owen-adams1](https://img.shields.io/badge/-Owen%20Adams-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/owen-adams1/)](https://www.linkedin.com/in/owen-adams1/)
 [![GitHub: OSAdams](https://img.shields.io/github/followers/osadams?label=follow&style=social)](https://github.com/osadams)
@@ -15,8 +15,9 @@ In my free time; I love to golf, practice cosmology, read books, and jam out to 
 
 I enjoy learning new things and collaborating with people on a variety of different projects!
 
-[![Owen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Derek-Cruz&theme=solarized-light&icons=true)](https://github.com/OSAdams)
+<hr>
 
+[![Owen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OSAdams&theme=solarized-light&icons=true)](https://github.com/OSAdams)
 
 ### Languages 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -24,7 +25,7 @@ I enjoy learning new things and collaborating with people on a variety of differ
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derek-Cruz&theme=solarized-light)](https://github.com/Derek-Cruz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OSAdams&theme=solarized-light)](https://github.com/OSAdams)
 
 ### Technologies & Tools
 
@@ -40,6 +41,3 @@ I enjoy learning new things and collaborating with people on a variety of differ
 ### Projects
 - **Movie Review**: [GitHub Repo](https://www.github.com/osadams/movie-review)
 - **Get Motivated else Laugh**: [GitHub Repo](https://www.github.com/osadams/get-motivated-else-laugh) [Live Demo](https://osadams.github.io/get-motivated-else-laugh)
-
-### Find me here!
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/owen-adams1)
