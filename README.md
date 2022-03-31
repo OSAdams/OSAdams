@@ -8,7 +8,7 @@
 
 I am a Full stack developer from Royal Oak, Michigan (Willing to relocate)
 
-My passion lies in solving challenging problems and providing excellent user experience.
+My passion lies in solving challenging problems and providing an excellent user experience.
 I always look to expand my knowledge and skillsets. I am effective both working as an individual and as a team.
 
 In my free time; I love to golf, practice cosmology, read books, and jam out to music!
