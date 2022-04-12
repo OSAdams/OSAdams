@@ -17,6 +17,10 @@ I enjoy learning new things and collaborating with people on a variety of differ
 
 <hr>
 
+### Projects
+- **Movie Review**: [GitHub Repo](https://www.github.com/osadams/code-journal) [Live Demo](https://osadams.githu.io/code-journal)
+- **Get Motivated else Laugh**: [GitHub Repo](https://www.github.com/osadams/get-motivated-else-laugh) [Live Demo](https://osadams.github.io/get-motivated-else-laugh)
+
 [![Owen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OSAdams&theme=solarized-light&icons=true)](https://github.com/OSAdams)
 
 ### Languages 
@@ -37,7 +41,3 @@ I enjoy learning new things and collaborating with people on a variety of differ
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](#)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](#)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
-
-### Projects
-- **Movie Review**: [GitHub Repo](https://www.github.com/osadams/movie-review)
-- **Get Motivated else Laugh**: [GitHub Repo](https://www.github.com/osadams/get-motivated-else-laugh) [Live Demo](https://osadams.github.io/get-motivated-else-laugh)
