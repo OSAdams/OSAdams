@@ -1,6 +1,6 @@
-# Hello World! I'm [Owen Adams](https://drive.google.com/file/d/1T1r4DEmPmhEMRBFiG_vS4yDdtPvOLp-G/view)! 👋
+# Hello World! I'm [Owen Adams](https://drive.google.com/file/d/1VFYzbdK34YnDOQfdJX3bkr_eYsJgEtHM/view?usp=sharing)! 👋
 
-> Full-stack Software Engineer | JS with React.js Library
+> Full-stack Software Engineer
 
 [![Linkedin: owen-adams1](https://img.shields.io/badge/-Owen%20Adams-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/owen-adams1/)](https://www.linkedin.com/in/owen-adams1/)
 [![GitHub: OSAdams](https://img.shields.io/github/followers/osadams?label=follow&style=social)](https://github.com/osadams)
