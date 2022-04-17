@@ -1,15 +1,15 @@
 # Hello World! I'm [Owen Adams](https://drive.google.com/file/d/1VFYzbdK34YnDOQfdJX3bkr_eYsJgEtHM/view?usp=sharing)! 👋
 
-> Full-stack Software Engineer
+> Full-stack Web Developer
 
 [![Linkedin: owen-adams1](https://img.shields.io/badge/-Owen%20Adams-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/owen-adams1/)](https://www.linkedin.com/in/owen-adams1/)
 [![GitHub: OSAdams](https://img.shields.io/github/followers/osadams?label=follow&style=social)](https://github.com/osadams)
 [![Gmail: owenadams.main](https://img.shields.io/badge/Gmail-owenadams.main-red)](mailto:owenadams.main@gmail.com)
 
-I am a Full stack developer from Royal Oak, Michigan
+I am a Full-stack Web Developer from Royal Oak, Michigan
 
 My passion lies in solving challenging problems and providing an excellent user experience.
-I always look to expand my knowledge and skillsets. I am effective both working as an individual and as a team.
+I am always looking to expand my knowledge and skillsets. I am effective both working as an individual and as a team.
 
 In my free time; I love to golf, practice cosmology, read books, and jam out to music!
 
