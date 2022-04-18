@@ -18,7 +18,7 @@ I enjoy learning new things and collaborating with people on a variety of differ
 <hr>
 
 ### Projects
-- **Movie Review**: [GitHub Repo](https://www.github.com/osadams/code-journal) [Live Demo](https://osadams.githu.io/code-journal)
+- **Code Journal**: [GitHub Repo](https://www.github.com/osadams/code-journal) [Live Demo](https://osadams.github.io/code-journal)
 - **Get Motivated else Laugh**: [GitHub Repo](https://www.github.com/osadams/get-motivated-else-laugh) [Live Demo](https://osadams.github.io/get-motivated-else-laugh)
 
 [![Owen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OSAdams&theme=solarized-light&icons=true)](https://github.com/OSAdams)
