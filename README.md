@@ -13,7 +13,7 @@ I am always looking to expand my knowledge and skillsets. I am effective both wo
 
 In my free time; I love to golf, practice cosmology, read books, and jam out to music!
 
-I enjoy learning new things and collaborating with people on a variety of different projects!
+I enjoy learning new things while collaborating with people on a variety of different projects!
 
 <hr>
 
