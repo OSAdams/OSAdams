@@ -6,7 +6,7 @@
 [![GitHub: OSAdams](https://img.shields.io/github/followers/osadams?label=follow&style=social)](https://github.com/osadams)
 [![Gmail: owenadams.main](https://img.shields.io/badge/Gmail-owenadams.main-red)](mailto:owenadams.main@gmail.com)
 
-I am a Full-stack Web Developer from Royal Oak, Michigan
+I am a Full-stack Web Developer from the Oakland County area in Michigan
 
 My passion lies in solving challenging problems and providing an excellent user experience.
 I am always looking to expand my knowledge and skillsets. I am effective both working as an individual and as a team.
