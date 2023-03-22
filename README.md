@@ -11,7 +11,7 @@ I am a Full-stack Web Developer from the Oakland County area in Michigan
 My passion lies in solving challenging problems while providing an excellent product.
 I am always looking to expand my knowledge and skillsets. I am effective both working as an individual and as a team.
 
-In my free time; I love to golf, practice cosmology, read books, and jam out to music!
+In my free time; I love to golf, modify my homelab, and cook!
 
 I enjoy learning new things while collaborating with people on a variety of different projects!
 
