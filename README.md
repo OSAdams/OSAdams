@@ -1,20 +1,14 @@
 # Hello World! I'm [Owen Adams](https://drive.google.com/file/d/1_dgwyE2ISifXam5gFcGap2TC9nSBDMoK/view?usp=sharing)! 👋
 
 > Full Stack Web Developer
-
+<br>
 [![Linkedin: owen-adams1](https://img.shields.io/badge/-Owen%20Adams-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/owen-adams1/)](https://www.linkedin.com/in/owen-adams1/)
 [![GitHub: OSAdams](https://img.shields.io/github/followers/osadams?label=follow&style=social)](https://github.com/osadams)
 [![Gmail: owenadams.main](https://img.shields.io/badge/Gmail-owenadams.main-red)](mailto:owenadams.main@gmail.com)
 
-I am currently located in the Oakland County area in Michigan. 
+I am located in the Oakland County area in Michigan and am open for work!
 
-I'm currently a freelancer with experience in JavaScript, PHP, & React. ^(stack expanded below)
-
-Throughout my life, I have always been more interested in technology than anything else. Unfortunately, it took my stubborn self many years to realize what challenges I gravitate too. Building applications and understanding logic allows me to define functions and declare variables that allow a user to post a comment. It sounds boring, and it can be. However, you can break an application. You get frustrated. Some times it's a simple miss-type of a variable name. Sometimes it's a journey to learning more than what you sought for. 
-
-During 2020, I decided I wanted to get into programming. Indirectly, I participated in an 'Intro to Website Development' course in highschool (crica 2007 - HTML & CSS!), modified sites like geocities and myspace, and even styled web forums with phpbb and Invision Powerboards! 
-
-In many cases, it helps improve your ability to plan building, and debugging features in applications! I love it!
+I'm currently a freelancer with experience in JavaScript, PHP, & React with experience with WordPress, Heroku, and Omnis, . ^(stack expanded below)
 
 Aside from building applications, my current hobbies are disc golfing, gardening, and cooking.
 
