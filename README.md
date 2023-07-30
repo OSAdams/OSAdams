@@ -1,6 +1,7 @@
 # Hello World!
-
-[Owen Adams](https://drive.google.com/file/d/1_dgwyE2ISifXam5gFcGap2TC9nSBDMoK/view?usp=sharing)!
+<br>
+[Owen Adams](https://drive.google.com/file/d/1_dgwyE2ISifXam5gFcGap2TC9nSBDMoK/view?usp=sharing)
+<br>
 Full Stack Web Developer
 <br>
 
