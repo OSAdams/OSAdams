@@ -1,7 +1,9 @@
-# Hello World! I'm [Owen Adams](https://drive.google.com/file/d/1_dgwyE2ISifXam5gFcGap2TC9nSBDMoK/view?usp=sharing)! 👋
+# Hello World!
 
-> Full Stack Web Developer
+[Owen Adams](https://drive.google.com/file/d/1_dgwyE2ISifXam5gFcGap2TC9nSBDMoK/view?usp=sharing)!
+Full Stack Web Developer
 <br>
+
 [![Linkedin: owen-adams1](https://img.shields.io/badge/-Owen%20Adams-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/owen-adams1/)](https://www.linkedin.com/in/owen-adams1/)
 [![GitHub: OSAdams](https://img.shields.io/github/followers/osadams?label=follow&style=social)](https://github.com/osadams)
 [![Gmail: owenadams.main](https://img.shields.io/badge/Gmail-owenadams.main-red)](mailto:owenadams.main@gmail.com)
