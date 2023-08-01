@@ -1,6 +1,8 @@
 # Hello World!
+<br>
 
-[Owen Adams](https://drive.google.com/file/d/1_dgwyE2ISifXam5gFcGap2TC9nSBDMoK/view?usp=sharing)!
+[Owen Adams](https://drive.google.com/file/d/1_dgwyE2ISifXam5gFcGap2TC9nSBDMoK/view?usp=sharing)
+<br>
 Full Stack Web Developer
 <br>
 
@@ -10,7 +12,7 @@ Full Stack Web Developer
 
 I am located in the Oakland County area in Michigan and am open for work!
 
-I'm currently a freelancer with experience in JavaScript, PHP, & React with experience with WordPress, Heroku, and Omnis, . ^(stack expanded below)
+I'm currently a freelancer coding in JavaScript, PHP, & React. I use WordPress, Heroku, and Omnis for deployment. ^^^(stack expanded below)
 
 Aside from building applications, my current hobbies are disc golfing, gardening, and cooking.
 
