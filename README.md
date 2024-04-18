@@ -1,6 +1,6 @@
 ![banner-2](https://github.com/OSAdams/OSAdams/assets/76730244/c5d371d3-95c5-4554-84fc-0297e834ef06)
 
-## Hello World! I'm [Owen Adams](https://drive.google.com/file/d/1_dgwyE2ISifXam5gFcGap2TC9nSBDMoK/view?usp=sharing), a passionate and fresh Full Stack Web Developer seeking new opportunities!
+### Hello World! I'm [Owen Adams](https://drive.google.com/file/d/1_dgwyE2ISifXam5gFcGap2TC9nSBDMoK/view?usp=sharing), a passionate and fresh Full Stack Web Developer seeking new opportunities!
 
 🚀 With a real world work environment at LearningFuze, I have learned how to build websites. The challenge of coding has drawn me in, almost like an addiction. I want to find a solution to a problem, and improve that solution. That is my favorite thing about coding, there's multiple approaches to a solution. With this abundance of knowledge, you can only improve and grow.
 
@@ -16,11 +16,9 @@ Let's connect and build together!
 
 I'm currently looking for work in the Oakland, Wayne, and Macomb tri-county area in Michgan. 
 
-<hr>
-
 ### Projects
-- **Code Journal**: [GitHub Repo](https://www.github.com/osadams/code-journal) [Live Demo](https://osadams.github.io/code-journal)
-- **Get Motivated else Laugh**: [GitHub Repo](https://www.github.com/osadams/get-motivated-else-laugh) [Live Demo](https://osadams.github.io/get-motivated-else-laugh)
+- **Food Wizard**: [GitHub Repo](https://www.github.com/osadams/food-wizard) [Live Demo](https://food-wizard.osastack.dev)
+- **Entree Finder**: [GitHub Repo](https://www.github.com/osadams/entree-finder) [Live Demo](https://osadams.github.io/entree-finder)
 
 [![Owen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OSAdams&theme=solarized-light&icons=true)](https://github.com/OSAdams)
 
