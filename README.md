@@ -6,7 +6,7 @@
 
 🧠 With my career in hospitality, I've learned how to work with urgency and accuracy. I do not want to make mistakes, but I am not afraid to make them. I firmly believe mistakes are the best opportunities to learn. With learning comes accuracy, speed, and knowledge. Every day will present an opportunity to learn something new. I'm looking for it.
 
-👨‍🏭 Leading and mentoring teams in Restaurants has provided me insight on how to be fluid with different teams. These experiences have provided me learning opportunies on how to work with multiple different teams and individuals. With an agile mindset, I'm ready to adapt at any second. My knack for wanting to understand complex technical matters helps me create a digestible explanation that helps limit errors and misunderstandings.
+👨‍🏭 Being a leader in Restaurants taught me how to be adaptive to unplanned situations. These experiences have provided me the knowledge on being able to communicate effectively with multiple teams. My curiousity for wanting to understand complex technical matters helps me create a digestible explanation for a common goal
 
 Let's connect and build together!
 
