@@ -1,6 +1,6 @@
 ![banner-2](https://github.com/OSAdams/OSAdams/assets/76730244/c5d371d3-95c5-4554-84fc-0297e834ef06)
 
-### Hello World! I'm [Owen Adams](https://drive.google.com/file/d/1_dgwyE2ISifXam5gFcGap2TC9nSBDMoK/view?usp=sharing), a passionate and fresh Full Stack Web Developer seeking new opportunities!
+### Hello World! I'm [Owen Adams](https://drive.google.com/file/d/1wwHyPGbjZGi70k6rdi3d3piEecv5UUgP/view?usp=drive_link)! I'm a junior full-stack developer with a background in hospitality and production.
 
 🚀 With a real world work environment at LearningFuze, I have learned how to build websites. The challenge of coding has drawn me in, almost like an addiction. I want to find a solution to a problem, and improve that solution. That is my favorite thing about coding, there's multiple approaches to a solution. With this abundance of knowledge, you can only improve and grow.
 
@@ -14,15 +14,17 @@ Let's connect and build together!
 [![GitHub: OSAdams](https://img.shields.io/github/followers/osadams?label=follow&style=social)](https://github.com/osadams)
 [![Gmail: owenadams.main](https://img.shields.io/badge/Gmail-owenadams.main-red)](mailto:owenadams.main@gmail.com)
 
-I'm currently looking for work in the Oakland, Wayne, and Macomb tri-county area in Michgan. 
+I'm currently looking for work in the Oakland, Wayne, and Macomb tri-county area in Michgan.
 
 ### Projects
+
 - **Food Wizard**: [GitHub Repo](https://www.github.com/osadams/food-wizard) [Live Demo](https://food-wizard.osastack.dev)
 - **Entree Finder**: [GitHub Repo](https://www.github.com/osadams/entree-finder) [Live Demo](https://osadams.github.io/entree-finder)
 
 [![Owen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OSAdams&theme=solarized-light&icons=true)](https://github.com/OSAdams)
 
 ### Top Skills
+
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
