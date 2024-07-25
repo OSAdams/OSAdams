@@ -1,6 +1,6 @@
 ![banner-2](https://github.com/OSAdams/OSAdams/assets/76730244/c5d371d3-95c5-4554-84fc-0297e834ef06)
 
-### Hello World! I'm [Owen Adams](https://drive.google.com/file/d/1_dgwyE2ISifXam5gFcGap2TC9nSBDMoK/view?usp=sharing), a passionate individual who is changing careers to the Tech Industry!
+### Hello World! I'm [Owen Adams](https://drive.google.com/file/d/1_dgwyE2ISifXam5gFcGap2TC9nSBDMoK/view?usp=sharing)! I'm taking a leep into the Tech Industry!
 
 🚀 With a real world work environment at LearningFuze, I have learned how to build websites. The challenge of coding has drawn me in, almost like an addiction. I want to find a solution to a problem, and improve that solution. That is my favorite thing about coding, there's multiple approaches to a solution. With this abundance of knowledge, you can only improve and grow.
 
