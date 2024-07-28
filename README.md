@@ -8,7 +8,7 @@
 
 👨‍🏭 Being a leader in Restaurants taught me how to be adaptive to unplanned situations. These experiences have provided me the knowledge on being able to communicate effectively with multiple teams. My curiousity for wanting to understand complex technical matters helps me create a digestible explanation for a common goal
 
-Let's connect and build together!
+Lets connect and build something!
 
 [![Linkedin: owen-adams1](https://img.shields.io/badge/-Owen%20Adams-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/owen-adams1/)](https://www.linkedin.com/in/owen-adams1/)
 [![GitHub: OSAdams](https://img.shields.io/github/followers/osadams?label=follow&style=social)](https://github.com/osadams)
@@ -23,7 +23,7 @@ I'm currently looking for work in the Oakland, Wayne, and Macomb tri-county area
 [![Owen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OSAdams&theme=solarized-light&icons=true)](https://github.com/OSAdams)
 
 ### Top Skills
-[![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typecript&logoColor=F7DF1E)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
