@@ -1,4 +1,4 @@
-![banner-2](https://github.com/OSAdams/OSAdams/assets/76730244/c5d371d3-95c5-4554-84fc-0297e834ef06)
+![banner-2](https://drive.google.com/file/d/1oorA-ncqy3GMOc_lwGQpFxJJ1lV_AmEc/view?usp=sharing)
 
 ### Hello World! I'm [Owen Adams](https://drive.google.com/file/d/1448XPszcnDVur_EXn1Vn_s7Uvi_VTqeH/view?usp=sharing)! I'm taking a leep into the Tech Industry!
 
@@ -14,7 +14,7 @@ Lets connect and build something!
 
 [![Linkedin: owen-adams1](https://img.shields.io/badge/-Owen%20Adams-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/owen-adams1/)](https://www.linkedin.com/in/owen-adams1/)
 [![GitHub: OSAdams](https://img.shields.io/github/followers/osadams?label=follow&style=social)](https://github.com/osadams)
-[![E-Mail: owenadams@osastack.dev](https://img.shields.io/badge/Gmail-owenadams-red)](mailto:owenadams@osastack.dev)
+[![Email: owenadams@osastack.dev](https://img.shields.io/badge/Email-owenadams-8A2BE2)](mailto:owenadams@osastack.dev)
 
 ### Projects
 - **Food Wizard**: [GitHub Repo](https://www.github.com/osadams/food-wizard) [Live Demo](https://food-wizard.osastack.dev)
