@@ -13,8 +13,8 @@
 Lets connect and build something!
 
 [![Linkedin: owen-adams1](https://img.shields.io/badge/-Owen%20Adams-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/owen-adams1/)](https://www.linkedin.com/in/owen-adams1/)
-[![GitHub: OSAdams](https://img.shields.io/github/followers/osadams?label=follow&style=social)](https://github.com/osadams)
-[![Email: owenadams@osastack.dev](https://img.shields.io/badge/Email-owenadams-8A2BE2)](mailto:owenadams@osastack.dev)
+[![GitHub: OSAdams](https://img.shields.io/github/followers/osadams?label=follow_OSAdams&style=social)](https://github.com/osadams)
+[![Email: owenadams@osastack.dev](https://img.shields.io/badge/Email-owenadams@osastack.dev-8A2BE2)](mailto:owenadams@osastack.dev)
 
 ### Projects
 - **Food Wizard**: [GitHub Repo](https://www.github.com/osadams/food-wizard) [Live Demo](https://food-wizard.osastack.dev)
