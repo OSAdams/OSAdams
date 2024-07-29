@@ -2,11 +2,13 @@
 
 ### Hello World! I'm [Owen Adams](https://drive.google.com/file/d/1448XPszcnDVur_EXn1Vn_s7Uvi_VTqeH/view?usp=sharing)! I'm taking a leep into the Tech Industry!
 
-🚀 With a real world work environment at LearningFuze, I have learned how to build websites. The challenge of coding has drawn me in, almost like an addiction. I want to find a solution to a problem, and improve that solution. That is my favorite thing about coding, there's multiple approaches to a solution. With this abundance of knowledge, you can only improve and grow.
+In the early 2000s, I was constantly building PHPBB and Invision PowerBoard forums. I took a web development class that taught me the basics of HTML and CSS. Geocities and heavily modified MySpace pages were popular at the time. Little did I know, I had a passion for coding as I was building things for fun in my free time.
 
-🧠 With my career in hospitality, I've learned how to work with urgency and accuracy. I do not want to make mistakes, but I am not afraid to make them. I firmly believe mistakes are the best opportunities to learn. With learning comes accuracy, speed, and knowledge. Every day will present an opportunity to learn something new. I'm looking for it.
+I've had an exciting career exploring various roles to find my path. I've worked as a line cook and sous chef in restaurants, a shift leader in manufacturing plants, and a sales associate at Costco. Throughout these experiences, I developed skills in leadership, agile methodology, setting goals, and building customer relations to drive revenue growth for the businesses I worked with.
 
-👨‍🏭 Being a leader in Restaurants taught me how to be adaptive to unplanned situations. These experiences have provided me the knowledge on being able to communicate effectively with multiple teams. My curiousity for wanting to understand complex technical matters helps me create a digestible explanation for a common goal
+Through my work experience, I've learned to adapt quickly, as each day brings new opportunities. To ensure a successful day, I support my team and develop plans through effective communication with multiple departments. Driven by a sense of urgency and a pursuit of perfection, I apply the skills I've honed in cooking to achieve goals that lead to repeat business and satisfied customers.
+
+The challenges of coding provide me with a deep sense of fulfillment. I enjoy the process of identifying issues, fixing them, and improving the system. The satisfaction of solving a bug or developing a new feature gives me a rush of dopamine and keeps me motivated every single day.
 
 Lets connect and build something!
 
