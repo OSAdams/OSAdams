@@ -16,8 +16,8 @@
 [![Email: owenadams@osastack.dev](https://img.shields.io/badge/Email-owenadams@osastack.dev-8A2BE2)](mailto:owenadams@osastack.dev)
 
 ## Projects
-- **Food Wizard**: [GitHub Repo](https://www.github.com/osadams/food-wizard) [Live Demo](https://food-wizard.osastack.dev)
-- **Entree Finder**: [GitHub Repo](https://www.github.com/osadams/entree-finder) [Live Demo](https://osadams.github.io/entree-finder)
+- **Food Wizard**: [GitHub Repository](https://www.github.com/osadams/food-wizard) | [Live Demo](https://food-wizard.osastack.dev)
+- **Entree Finder**: [GitHub Repository](https://www.github.com/osadams/entree-finder) | [Live Demo](https://osadams.github.io/entree-finder)
 
 ## Top Skills and Tools
 <img src="https://skillicons.dev/icons?i=aws,babel,bash,bootstrap,css,docker,express,figma,git,github,githubactions,html,js,md,nodejs,npm,postgres,react,tailwind,ts,ubuntu,vscode,webpack,wordpress&theme=dark&perline=8" />
