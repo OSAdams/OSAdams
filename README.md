@@ -1,6 +1,6 @@
-[![banner-2](https://github.com/user-attachments/assets/103a8778-90fd-4d45-9dfb-0edca79c4c41)](https://drive.google.com/file/d/1oorA-ncqy3GMOc_lwGQpFxJJ1lV_AmEc/view?usp=sharing)
+[![banner-2](https://github.com/user-attachments/assets/103a8778-90fd-4d45-9dfb-0edca79c4c41)](https://drive.google.com/file/d/11PLjNXpJrnPLPN8xfbmU1mLR__t4a5UD/view?usp=sharing)
 
-### Hello World! I'm [Owen Adams](https://drive.google.com/file/d/1pTW4UcJLhw-1Yy2Dml1l08kPnfydrTGP/view?usp=sharing)! I'm taking a leep into the Tech Industry!
+### Hello World! I'm [Owen Adams](https://drive.google.com/file/d/11PLjNXpJrnPLPN8xfbmU1mLR__t4a5UD/view?usp=sharing)! I'm taking a leep into the Tech Industry!
 
 🚧 In the early 2000s, I was constantly building PHPBB and Invision PowerBoard forums. I took a web development class that taught me the basics of HTML and CSS. Geocities and heavily modified MySpace pages were popular at the time. Little did I know, I had a passion for coding as I was building things for fun in my free time.
 
