@@ -26,10 +26,6 @@
 ### Top Skills and Tools
 <img src="https://skillicons.dev/icons?i=aws,babel,bash,bootstrap,css,docker,express,figma,git,github,githubactions,html,js,md,nodejs,npm,postgres,react,tailwind,ts,ubuntu,vscode,webpack,wordpress&theme=dark&perline=8" />
 
-
-### Tools
-_work in progress, seperating skills and software/tools_
-
 ### Activity
 ![OSAdams's Stats](https://github-readme-stats.vercel.app/api?username=OSAdams&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
 ![OSAdams's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OSAdams&theme=midnight-purple&hide_border=false)
