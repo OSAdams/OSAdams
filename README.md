@@ -8,7 +8,7 @@
 
 - Interested in full-stack development
   - Willing to relocate. Grand Rapids, MI area or Traverse City, MI preferred
-- Working on updating <strong>Food Wizard</strong> API calls and <strong>LeetCode</strong> algorithms
+- Working on creating a <strong>Portfolio</strong> website and <strong>LeetCode</strong> algorithms
 - Currently learning <a href="https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/learn/lecture/12918766?start=1#overview" target="__blank">Docker</a> and <a href="https://www.amazon.com/dp/B08QS38WSV?psc=1&ref=ppx_yo2ov_dt_b_product_details" target="__blank">Linux</a>
 - Reading <a href="https://www.amazon.com/dp/1335013415?psc=1&ref=ppx_yo2ov_dt_b_product_details" target="__blank">Fall of Civilizations: Stories of Greatness and Decline by Paul Cooper</a>
 
