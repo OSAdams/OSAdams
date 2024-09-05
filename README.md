@@ -19,7 +19,7 @@
 
 ### Projects
 - **Food Wizard**: [GitHub Repository](https://www.github.com/osadams/food-wizard) | [Live Demo](https://food-wizard.osastack.dev)
-    - A full-stack JavaScript application for users who would like to search for recipes using keywords, and interact with other users about recipes.
+    - A full-stack JavaScript application for users who would like to search for recipes using keywords, and comment their opinions about recipes.
 - **Entree Finder**: [GitHub Repository](https://www.github.com/osadams/entree-finder) | [Live Demo](https://osadams.github.io/entree-finder)
     - A front-end JavaScript application for users looking to find straight-forward recipes and save for later use.
 
