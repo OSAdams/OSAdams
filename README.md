@@ -6,7 +6,7 @@
 
 ## Hello World! <a href="https://drive.google.com/file/d/16oIFJXO_mggnWewmFk6JkyRSguuzVfzU/view?usp=sharing" target="__blank">I'm Owen Adams</a>
 
-- Interested in full-stack development
+- Interested in full-stack development opportunities
   - Willing to relocate. Grand Rapids, MI area or Traverse City, MI preferred
 - Working on creating a <strong>Portfolio</strong> website and <strong>LeetCode</strong> algorithms
 - Currently learning <a href="https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/learn/lecture/12918766?start=1#overview" target="__blank">Docker</a> and <a href="https://www.amazon.com/dp/B08QS38WSV?psc=1&ref=ppx_yo2ov_dt_b_product_details" target="__blank">Linux</a>
