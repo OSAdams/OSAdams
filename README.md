@@ -17,13 +17,8 @@
 <a href="https://drive.google.com/file/d/16oIFJXO_mggnWewmFk6JkyRSguuzVfzU/view?usp=sharing" target="__blank"><img alt="Click to view my Resume!" src="https://img.shields.io/badge/Public_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 
 ### Projects
-- **TBD**: [GitHub Repository](https://www.github.com/osadams/food-wizard) | [Live Demo](https://www.google.com)
+- **TBD**: [GitHub Repository](https://www.github.com/osadams/BlazorTasker) | [Live Demo](https://www.google.com)
     - TBD
       
 ### Top Skills and Tools
-<img src="https://skillicons.dev/icons?i=aws,babel,bash,bootstrap,css,docker,express,figma,git,github,githubactions,html,js,md,nodejs,npm,postgres,react,tailwind,ts,ubuntu,vscode,webpack,wordpress&theme=dark&perline=8" />
-
-### Activity
-![OSAdams's Stats](https://github-readme-stats.vercel.app/api?username=OSAdams&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
-![OSAdams's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OSAdams&theme=midnight-purple&hide_border=false)
-![OSAdams's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OSAdams&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
+<img src="https://skillicons.dev/icons?i=ts,aws,js,c#,.net,blazor,razor,babel,bash,bootstrap,css,docker,express,figma,git,github,githubactions,html,md,nodejs,npm,postgres,react,tailwind,ubuntu,vscode,webpack,wordpress&theme=dark&perline=8" />
