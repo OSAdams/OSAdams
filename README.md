@@ -21,4 +21,4 @@
     - TBD
       
 ### Top Skills and Tools
-<img src="https://skillicons.dev/icons?i=ts,aws,js,c#,.net,blazor,razor,babel,bash,bootstrap,css,docker,express,figma,git,github,githubactions,html,md,nodejs,npm,postgres,react,tailwind,ubuntu,vscode,webpack,wordpress&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=ts,js,c,net,nodejs,react,aws,docker,vite,express,postgres,webpack,html,css,bootstrap,powershell,babel,figma,git,github,githubactions,npm,ubuntu,vscode,visualstudio&theme=dark&perline=8" />
