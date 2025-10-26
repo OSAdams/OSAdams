@@ -13,16 +13,13 @@
 - Reading <a href="https://www.amazon.com/dp/1335013415?psc=1&ref=ppx_yo2ov_dt_b_product_details" target="__blank">Fall of Civilizations: Stories of Greatness and Decline by Paul Cooper</a>
 
 ### Links
-<a href="https://www.linkedin.com/in/owen-adams-1" target="__blank"><img alt="Click to visit my LinkedIn Profile!" src="https://img.shields.io/badge/owen--adams1-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:owenadams@osastack.dev" target="__blank"><img alt="Click to send me an e-mail!" src="https://img.shields.io/badge/owenadams@osastack.dev-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+<a href="mailto:falco@falcoco.de" target="__blank"><img alt="Click to send me an e-mail!" src="https://img.shields.io/badge/falco@falcoco.de-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
 <a href="https://drive.google.com/file/d/16oIFJXO_mggnWewmFk6JkyRSguuzVfzU/view?usp=sharing" target="__blank"><img alt="Click to view my Resume!" src="https://img.shields.io/badge/Public_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 
 ### Projects
-- **Food Wizard**: [GitHub Repository](https://www.github.com/osadams/food-wizard) | [Live Demo](https://food-wizard.osastack.dev)
-    - A full-stack JavaScript application for users who would like to search for recipes using keywords, and comment their opinions about recipes.
-- **Entree Finder**: [GitHub Repository](https://www.github.com/osadams/entree-finder) | [Live Demo](https://osadams.github.io/entree-finder)
-    - A front-end JavaScript application for users looking to find straight-forward recipes and save for later use.
-
+- **TBD**: [GitHub Repository](https://www.github.com/osadams/food-wizard) | [Live Demo](https://www.google.com)
+    - TBD
+      
 ### Top Skills and Tools
 <img src="https://skillicons.dev/icons?i=aws,babel,bash,bootstrap,css,docker,express,figma,git,github,githubactions,html,js,md,nodejs,npm,postgres,react,tailwind,ts,ubuntu,vscode,webpack,wordpress&theme=dark&perline=8" />
 
