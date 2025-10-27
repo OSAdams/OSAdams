@@ -1,9 +1,3 @@
-<div align="center">
-      <a href="https://drive.google.com/file/d/11PLjNXpJrnPLPN8xfbmU1mLR__t4a5UD/view?usp=sharing" target="__blank">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=..Hello+World!;I'm+Owen..;..Welcome+to;my+GitHub!..;" alt="Typing SVG"/>
-      </a>
-</div>
-
 ## Hello World! <a href="https://drive.google.com/file/d/16oIFJXO_mggnWewmFk6JkyRSguuzVfzU/view?usp=sharing" target="__blank">I'm Owen Adams</a>
 
 - Interested in full-stack development opportunities
