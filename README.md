@@ -7,10 +7,9 @@
 ## Hello World! <a href="https://drive.google.com/file/d/16oIFJXO_mggnWewmFk6JkyRSguuzVfzU/view?usp=sharing" target="__blank">I'm Owen Adams</a>
 
 - Interested in full-stack development opportunities
-  - Willing to relocate. Grand Rapids, MI area or Traverse City, MI preferred
-- Working on creating a <strong>Portfolio</strong> website and <strong>LeetCode</strong> algorithms
-- Currently learning <a href="https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/learn/lecture/12918766?start=1#overview" target="__blank">Docker</a> and <a href="https://www.amazon.com/dp/B08QS38WSV?psc=1&ref=ppx_yo2ov_dt_b_product_details" target="__blank">Linux</a>
-- Reading <a href="https://www.amazon.com/dp/1335013415?psc=1&ref=ppx_yo2ov_dt_b_product_details" target="__blank">Fall of Civilizations: Stories of Greatness and Decline by Paul Cooper</a>
+- Working on <strong>ReneWars.cc</strong>
+- Currently learning <a href="https://www.udemy.com/course/complete-blazor/" target="__blank">Blazor</a> and <a href="https://www.amazon.com/dp/B08QS38WSV?psc=1&ref=ppx_yo2ov_dt_b_product_details" target="__blank">Linux</a>
+- Reading <a href="https://www.taylorfrancis.com/books/mono/10.1201/9781003308461/software-design-patterns-sufyan-bin-uzayr" target="__blank">Software Design Patterns - The Ultimate Guide by Sufyan Bin Uzayr</a>
 
 ### Links
 <a href="mailto:falco@falcoco.de" target="__blank"><img alt="Click to send me an e-mail!" src="https://img.shields.io/badge/falco@falcoco.de-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
