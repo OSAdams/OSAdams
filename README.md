@@ -1,7 +1,6 @@
 ## Hello World! <a href="https://drive.google.com/file/d/16oIFJXO_mggnWewmFk6JkyRSguuzVfzU/view?usp=sharing" target="__blank">I'm Owen Adams</a>
 
 - Interested in full-stack development opportunities
-- Working on <strong>ReneWars.cc</strong>
 - Currently learning <a href="https://www.udemy.com/course/complete-blazor/" target="__blank">Blazor</a> and <a href="https://www.amazon.com/dp/B08QS38WSV?psc=1&ref=ppx_yo2ov_dt_b_product_details" target="__blank">Linux</a>
 - Reading <a href="https://www.taylorfrancis.com/books/mono/10.1201/9781003308461/software-design-patterns-sufyan-bin-uzayr" target="__blank">Software Design Patterns - The Ultimate Guide by Sufyan Bin Uzayr</a>
 
